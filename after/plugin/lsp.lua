@@ -9,6 +9,7 @@ lsp.ensure_installed({
 	'intelephense',
 	'cssls',
     'html',
+    'gopls',
 })
 
 local cmp = require('cmp')
